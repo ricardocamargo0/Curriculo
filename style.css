@@ -25,6 +25,9 @@ body{
     margin: auto;
 }
 
+/* preciso aprender a fazer uma configuração 
+mais centralizada, precisei criar muitas divs
+pra coisas simples dificultando o codigo*/
 #mid {
     background-color: rgb(237, 247, 247);
     width: 1000px;
