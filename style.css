@@ -1,7 +1,7 @@
 /*Config ROOT */
 *{
     margin: 3px;
-    padding: 10px;
+    padding: 7px;
     outline: 0;
     appearance: none;
     border: 0;
@@ -48,6 +48,13 @@ body{
 }
 
 #exp {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
     display: flex;
     flex-direction: column;
     justify-content: center;
